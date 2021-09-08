@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/404026024.svg)](https://zenodo.org/badge/latestdoi/404026024)
+
 # ice_edge_latitude
 Python code to calculate the latitude of the sea ice edge from climate model/observation data based on the algorithm of Eisenman (2010). This package also includes a routine for calculating sea ice extent and area, and the code should also work with other climate data provided they are transformed into the required structure.
 
