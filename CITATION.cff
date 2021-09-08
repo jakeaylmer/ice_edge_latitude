@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Aylmer"
+  given-names: "Jake Robert"
+  orcid: "https://orcid.org/0000-0002-5159-0608"
+title: "Sea ice-edge latitude diagnostic code"
+version: 1.0.0
+doi: 10.5281/zenodo.5494524
+date-released: 2021-09-08
+url: "https://github.com/jakeaylmer/ice_edge_latitude"
