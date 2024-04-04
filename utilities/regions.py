@@ -24,6 +24,10 @@ of related regions define as one. See examples below.
 
 Longitudes are in degrees east (i.e. always positive and
 between 0 and 360).
+
+Note that the region names must be unique, and in each
+region the sub-region names (i.e., the keys of the
+dictionaries) must also be unique.
 ---------------------------------------------------------
 """
 
@@ -48,7 +52,7 @@ lakes = {'L. Balkhash' : [70, 80, 40, 50],
          'L. Aike'     : [57, 62, 43, 47],
          'Caspian Sea' : [45, 55, 35, 48]}
 
-baltic_sea = {'Sorth Baltic Sea' : [15, 30, 60, 66],
+baltic_sea = {'North Baltic Sea' : [15, 30, 60, 66],
               'South Baltic Sea' : [10, 30, 53, 60]}
 
 black_sea = {'Black Sea' : [26, 41, 40, 47]}
